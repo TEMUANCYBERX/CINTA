@@ -13,10 +13,10 @@ CINTA atau
 
 1. ``` git clone [WEBSITE]```
 
-2. ``` chmod +x cinta.py```
+2. ``` cd CINTA```
 
-3. ``` python cinta.py```
+3. ``` chmod +x cinta.py```
 
-4. ``` ok ```
+4. ``` python cinta.py```
 
 Terima Kasih sudah menggunakannya. :trollface:
