@@ -6,11 +6,11 @@ import signal
 def generate_random_binary(length):
     binary = ""
     for _ in range(length):
-        binary += random.choice(["■□■□■□■□■", "■□■□■□■□■"])
+        binary += random.choice(["☠︎︎", "☠︎︎"])
     return binary
 
 def generate_random_color():
-    colors = ["red", "green", "yellow", "blue", "magenta", "cyan"]
+    colors = ["red", "green"]
     return random.choice(colors)
 
 def display_moving_binary(length, delay):
