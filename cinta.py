@@ -16,4 +16,4 @@ for package in required_packages:
         install_package(package)
 
 # Execute the main script
-exec(open("54656d75616e4379626572204f72616e672041736c69204d616c6179736961.py").read())
+exec(open("0000.py").read())
